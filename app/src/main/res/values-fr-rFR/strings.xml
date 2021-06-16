@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur de période</string>
+    <string name="compute_year">%1$d années</string>
+    <string name="compute_month">%1$d mois</string>
+    <string name="compute_day">%1$d jours</string>
+    <string name="compute_hour">%1$d heures</string>
+    <string name="compute_minute">%1$d minutes</string>
+    <string name="compute_second">%1$d secondes</string>
+    <string name="compute_millis">%1$d millisecondes</string>
+    <string name="button_save">Enregistrer temps présent</string>
+    <string name="button_load">Charger</string>
+    <string name="button_calc">Calculer</string>
+    <string name="button_toggle_main">Basculer entre timestamp et datetime</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="button_toggle_compute">Basculer entre Total et cumulé</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="ask_timestamp_dialog">Entrez le timestamp de la date à selectionner</string>
+    <string name="datetime_format">%1$d/%2$d/%3$d&lt;br/>%4$d:%5$d:%6$d.%7$d</string>
+</resources>

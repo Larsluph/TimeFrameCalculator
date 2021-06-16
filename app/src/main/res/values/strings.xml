@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TimeFrame Calculator</string>
+    <string name="button_toggle_main">Toggle timestamp / datetime</string>
+    <string name="button_save">Save present time</string>
+    <string name="button_load">Load</string>
+    <string name="button_calc">Compute</string>
+    <string name="datetime_format">%1$d/%2$d/%3$d&lt;br/>%4$d:%5$d:%6$d.%7$d</string>
+    <string name="compute_year">%1$d years</string>
+    <string name="compute_month">%1$d months</string>
+    <string name="compute_day">%1$d days</string>
+    <string name="compute_hour">%1$d hours</string>
+    <string name="compute_minute">%1$d minutes</string>
+    <string name="compute_second">%1$d seconds</string>
+    <string name="compute_millis">%1$d milliseconds</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="button_toggle_compute">Toggle Cumulative / Separate</string>
+    <string name="reset">Reset</string>
+    <string name="ask_timestamp_dialog">Enter new Timeframe in Timestamp format</string>
+</resources>

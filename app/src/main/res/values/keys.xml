@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="packageName" translatable="false">com.larsluph.timeframecalculator</string>
+    <string name="stampExtraKey" translatable="false">baseStamp</string>
+    <string name="timestampPreferenceKey" translatable="false">timestamp</string>
+</resources>
